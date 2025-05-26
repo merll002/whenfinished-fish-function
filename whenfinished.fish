@@ -4,5 +4,5 @@ function whenfinished
         return 1
     end
 
-    while true; if pgrep $argv[1] >/dev/null; else; $argv[2..-1]; break; end; sleep 0.1; end
+    while true; if pgrep $argv[1] >/dev/null; else; $argv[2..-1]; break; end; sleep 0.2; end
 end
