@@ -1,4 +1,5 @@
 # Whenfinished Fish function
+When the specified command has finished executing, it will run the next command of your choice. For example, you could put your computer to sleep automatically after compiling a large piece of software whilst you are asleep.
 # Prerequisites
 * Fish Shell
 # Installation:
